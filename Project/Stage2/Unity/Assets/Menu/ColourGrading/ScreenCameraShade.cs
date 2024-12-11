@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ScreenCameraShader : MonoBehaviour
+public class ScreenCameraShade : MonoBehaviour
 {
     //public Shader awesomeShader = null;
     public Material m_renderMaterial;
